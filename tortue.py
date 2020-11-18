@@ -37,7 +37,7 @@ def tourner(angle):
 
 def effacer():
     current.reset()
-    couleur(0,0,0)
+    changer_couleur(0,0,0)
 
 def aller(x,y):
     lever_crayon()
